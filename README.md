@@ -1,2 +1,1 @@
-<p>I'm Michael, a Software engineer from <img src="https://cdn-icons-png.flaticon.com/128/12360/12360728.png" width="15"/> <b>Wellington, New Zealand</b>, mainly focused on cloud and backend systems, with an academic background in machine learning and evolutionary computation.</br></p>
-<p>I've recently been enjoying a transition from Windows to Linux (Arch/CachyOS & Hyprland) and building out my setup.</p>
+<p>I'm Michael, a Software engineer from <img src="https://cdn-icons-png.flaticon.com/128/12360/12360728.png" width="15"/> <b>Wellington, New Zealand</b>, mainly focused on cloud platforms and backend systems, with an academic background in machine learning and evolutionary computation.</br></p>
